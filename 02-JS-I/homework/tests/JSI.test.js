@@ -3,7 +3,7 @@ const {
   nuevaString,
   nuevoNum,
   nuevoBool,
-  nuevaResta,
+  nuevaResta, 
   nuevaMultiplicacion,
   nuevoModulo,
   devolverString,

@@ -58,7 +58,7 @@ function sonIguales(x, y) {
 }
 
 function tienenMismaLongitud(str1, str2) {
-  if (str1 === str2) {
+  if (str1.length === str2.length) {
     return true;
   }
   return false;  
@@ -129,13 +129,13 @@ function numeroRandom() {
 
 function esPositivo(numero) {
   if (numero > 0) {
-    return "Es Positivo"
+    return "Es positivo";
   }
   else if (numero < 0) {
-    return "Es Negativo"
+    return "Es negativo";
   }
   else {(numero === 0)
-    return false
+    return false;
   }
 }
 
