@@ -1,8 +1,3 @@
-const { calculateExtensionPriority } = require("@11ty/eleventy/src/TemplateData")
-const { normalize } = require("@11ty/eleventy/src/TemplatePath")
-const { stringify } = require("git-url-parse")
-const { tienenMismaLongitud } = require("./homework/homework")
-
 DEFINICIONES
 
 * Variables:
