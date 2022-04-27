@@ -1,0 +1,5 @@
+Definicion
+* Arrays
+Los arreglos nos permiten en listar elementos de cualquier tipo de datos. Los arreglos siempre se define usando []. Como se menciono anteriormente los arreglos pueden ser de tipo de dato: string, numerico y booleano o de condicion, ademas, dentro de los arreglos tambien podemos incluir otros arreglos con sus elementos, al igual, que tambien podemos incluir funciones como elemento de un arreglo.
+Los elementos dentro del arreglo siempre estan organizados de 0 a n. Los elementos dentro del arreglo tambien los podemos utilizar para realizar operaciones matematicas y para llamar a las funciones si es que tenemos una funcion como elemento.
+Al arreglo se le pueden agragar y retirar elementos con ayuda de los metodos .push y .pop respectivamente. El primero incorpora elementos en la ultima posicion del arreglo y el segundo los retira el ultimo elemento del arreglo. 
